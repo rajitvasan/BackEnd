@@ -58,7 +58,7 @@ public class CartTestCase
 	
 	// Adding new Category
 	@Test
-	public void saveProduct()
+	public void saveCategory()
 	{
 		Product p =  new Product();
 		User user = new User();
